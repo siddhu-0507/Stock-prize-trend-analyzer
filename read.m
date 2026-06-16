@@ -1,2 +1,18 @@
-# Stock-prize-trend-analyzer
-Features built in:  Simulates realistic price movement using a random walk + drift model (same math real quant analysts use) Plots 7-day and 20-day Moving Averages — the most common technical indicators Generates a Buy / Sell / Hold signal based on MA crossover strategy Shows trading volume with color coding (blue = up day, red = down day) 
+# Stock Price Trend Analyzer
+
+A Flask-based web application that analyzes stock trends using Yahoo Finance data.
+
+## Features
+
+- Real-time stock data
+- 7-day Moving Average
+- 20-day Moving Average
+- Buy/Sell/Hold Signal
+- Trading Volume Analysis
+
+## Technologies
+
+- Python
+- Flask
+- Yahoo Finance API
+- Pandas
